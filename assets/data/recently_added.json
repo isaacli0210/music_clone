@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "title": "Every Breath You Take",
+        "subtitle": "Sting & The Police",
+        "imageURL": "assets/images/library/recently-added-01.jpg"
+    },
+    {
+        "id": 1,
+        "title": "It Must Have Been Love",
+        "subtitle": "Roxette",
+        "imageURL": "assets/images/library/recently-added-02.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Love Story",
+        "subtitle": "Taylor Swift",
+        "imageURL": "assets/images/library/recently-added-03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Eternal Flame (La Flama Enterna)",
+        "subtitle": "The Bangles",
+        "imageURL": "assets/images/library/recently-added-04.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Always Remember Us This Way",
+        "subtitle": "Lady Gaga & Bradley Cooper",
+        "imageURL": "assets/images/library/recently-added-05.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Saving All My Love for You",
+        "subtitle": "Whitney Houston",
+        "imageURL": "assets/images/library/recently-added-06.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Yesterday Once More",
+        "subtitle": "Carpenters",
+        "imageURL": "assets/images/library/recently-added-07.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Right Here Waiting",
+        "subtitle": "Richard Marx",
+        "imageURL": "assets/images/library/recently-added-08.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Nothing's Gonna Stop Us Now",
+        "subtitle": "Starship",
+        "imageURL": "assets/images/library/recently-added-09.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Ain't No Mountain High Enough",
+        "subtitle": "Jennifer Hudson",
+        "imageURL": "assets/images/library/recently-added-10.jpg"
+    }
+
+]

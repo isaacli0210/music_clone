@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "imageURL": "assets/images/search/browse-category-01.jpg",
+        "title": "Spatial Audio"
+    },
+    {
+        "id": 1,
+        "imageURL": "assets/images/search/browse-category-02.jpg",
+        "title": "Cantopop"
+    },
+    {
+        "id": 2,
+        "imageURL": "assets/images/search/browse-category-03.jpg",
+        "title": "J-Pop"
+    },
+    {
+        "id": 3,
+        "imageURL": "assets/images/search/browse-category-04.jpg",
+        "title": "Mandopop"
+    },
+    {
+        "id": 4,
+        "imageURL": "assets/images/search/browse-category-05.jpg",
+        "title": "Hey Siri, Play..."
+    },
+    {
+        "id": 5,
+        "imageURL": "assets/images/search/browse-category-06.jpg",
+        "title": "K-Pop"
+    },
+    {
+        "id": 6,
+        "imageURL": "assets/images/search/browse-category-07.jpg",
+        "title": "International"
+    },
+    {
+        "id": 7,
+        "imageURL": "assets/images/search/browse-category-08.jpg",
+        "title": "Charts"
+    },
+    {
+        "id": 8,
+        "imageURL": "assets/images/search/browse-category-09.jpg",
+        "title": "Anime"
+    },
+    {
+        "id": 9,
+        "imageURL": "assets/images/search/browse-category-10.jpg",
+        "title": "R&B"
+    },
+    {
+        "id": 10,
+        "imageURL": "assets/images/search/browse-category-11.jpg",
+        "title": "Classical"
+    },
+    {
+        "id": 11,
+        "imageURL": "assets/images/search/browse-category-12.jpg",
+        "title": "Chill"
+    },
+    {
+        "id": 12,
+        "imageURL": "assets/images/search/browse-category-13.jpg",
+        "title": "Hip-Hop/Rap"
+    },
+    {
+        "id": 13,
+        "imageURL": "assets/images/search/browse-category-14.jpg",
+        "title": "Sleep"
+    },
+    {
+        "id": 14,
+        "imageURL": "assets/images/search/browse-category-15.jpg",
+        "title": "Jazz"
+    },
+    {
+        "id": 15,
+        "imageURL": "assets/images/search/browse-category-16.jpg",
+        "title": "Fitness"
+    },
+    {
+        "id": 16,
+        "imageURL": "assets/images/search/browse-category-17.jpg",
+        "title": "Rock"
+    },
+    {
+        "id": 17,
+        "imageURL": "assets/images/search/browse-category-18.jpg",
+        "title": "Essentials"
+    },
+    {
+        "id": 18,
+        "imageURL": "assets/images/search/browse-category-19.jpg",
+        "title": "Feel Good"
+    },
+    {
+        "id": 19,
+        "imageURL": "assets/images/search/browse-category-20.jpg",
+        "title": "Romance"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "radioTitle": "Music 1",
+        "radioDescription": "The new music that matters.",
+        "imageURL": "assets/images/radio/radio-01.jpg"
+    },
+    {
+        "id": 1,
+        "radioTitle": "Music Country",
+        "radioDescription": "Where it sounds like home.",
+        "imageURL": "assets/images/radio/radio-02.jpg"
+    },
+    {
+        "id": 2,
+        "radioTitle": "Music Hits",
+        "radioDescription": "Songs you know and love.",
+        "imageURL": "assets/images/radio/radio-03.jpg"
+    }
+]

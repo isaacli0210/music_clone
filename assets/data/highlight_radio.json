@@ -1,0 +1,53 @@
+[
+    {
+        "id": 0,
+        "header": "Music 1",
+        "subheader": "The new music that matters.",
+        "startTime": "09:00",
+        "endTime": "11:00",
+        "radioTitle": "The Zane Lowe Show",
+        "radioDescription": "Headline interviews, breaking news, and the best emerging music.",
+        "imageURL": "assets/images/radio/radio-highlights-01.jpeg"
+    },
+    {
+        "id": 1,
+        "header": "Music Hits",
+        "subheader": "Songs you know and love.",
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "radioTitle": "Easy Hits Radio with Sabi",
+        "radioDescription": "Low-key songs to help you unwind.",
+        "imageURL": "assets/images/radio/radio-highlights-02.jpeg"
+    },
+    {
+        "id": 2,
+        "header": "Music Country",
+        "subheader": "Where it sounds like home.",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "radioTitle": "The Ward Guenther Show",
+        "radioDescription": "Everything you need to know from the heart of Music City.",
+        "imageURL": "assets/images/radio/radio-highlights-03.jpeg"
+    },
+    {
+        "id": 3,
+        "header": "Music 1",
+        "subheader": "The new music that matters",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "radioTitle": "The Apple Music 1 List",
+        "radioDescription": "Hear our current obsessions and new discoveries making waves.",
+        "imageURL": "assets/images/radio/radio-highlights-04.jpeg"
+    },
+    {
+        "id": 4,
+        "header": "Music 1",
+        "subheader": "The new music that matters",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "radioTitle": "The Rebecca Judd Show",
+        "radioDescription": "Big hits, throwbacks, and the best new music.",
+        "imageURL": "assets/images/radio/radio-highlights-05.jpeg"
+    }
+
+]
